@@ -1,2 +1,6 @@
 # secret-hitler
- The first python homework of probability and statistics course 14011 at EE department at SUT
+Probability and Statistics 14011
+
+First python homework, Secret Hitler Game
+
+Sharif University of Technology, Electrical Engineering Department
